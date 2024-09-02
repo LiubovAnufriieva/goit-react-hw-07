@@ -1,6 +1,9 @@
 
 .container {
   margin: 10px 0;
+  align-self: center;
+  align-items: center;
+  justify-content: center;
 }
 
 .label {

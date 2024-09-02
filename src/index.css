@@ -5,14 +5,14 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+
 body {
-  background-color: fff;
   margin: 0;
   display: flex;
   place-items: center;
-  min-width: 320px;
-  min-height: 100vh;
+  justify-content: center;
 }
+
 /* src/index.css */
 
 h1,
